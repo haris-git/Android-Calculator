@@ -15,7 +15,7 @@ the following files have to be changed in order to execute the app:
 You should have the latest version of Android Studio installed. 
 
 ```
-Give examples
+Recommended - Android Studio 2.1 + later
 ```
 
 ### How to make it work
