@@ -1,6 +1,6 @@
 # Android-Calculator
 
-Example of a functional calculator app for future reference
+Example of a functional calculator app for future reference. You can see how the app looks like after opening the preview.png
 
 ### Which files of the project are important
 
