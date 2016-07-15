@@ -1,4 +1,4 @@
-/*here goes your package destination*/
+package./*here goes your package destination*/
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
