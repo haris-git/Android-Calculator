@@ -2,7 +2,7 @@
 
 Example of a functional calculator app for future reference
 
-## Which files of the project are important
+### Which files of the project are important
 
 the following files have to be changed in order to execute the app:
 
@@ -20,7 +20,7 @@ Recommended - Android Studio 2.1 + later
 
 ### How to make it work
 
-Create a new 'Empty Project' and just copy/paste the given code. 
+Create a new 'Empty Project' and just copy/paste the given code into the proper file of your project. 
 
 ## Authors
 
